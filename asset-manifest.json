@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/430-mernapp/static/css/main.f855e6bc.css",
-    "main.js": "/430-mernapp/static/js/main.ed13674c.js",
+    "main.js": "/430-mernapp/static/js/main.fd42e82a.js",
     "static/js/592.5bd712bc.chunk.js": "/430-mernapp/static/js/592.5bd712bc.chunk.js",
+    "static/media/prasun.jpg": "/430-mernapp/static/media/prasun.77383fb96b85bfcbfe64.jpg",
     "static/media/logo.svg": "/430-mernapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/430-mernapp/index.html",
     "main.f855e6bc.css.map": "/430-mernapp/static/css/main.f855e6bc.css.map",
-    "main.ed13674c.js.map": "/430-mernapp/static/js/main.ed13674c.js.map",
+    "main.fd42e82a.js.map": "/430-mernapp/static/js/main.fd42e82a.js.map",
     "592.5bd712bc.chunk.js.map": "/430-mernapp/static/js/592.5bd712bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ed13674c.js"
+    "static/js/main.fd42e82a.js"
   ]
 }
