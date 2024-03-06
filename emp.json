@@ -1,5 +1,8 @@
 [
-    {"code": "MRUE2212T162", "name": "Dr. Harikrishna Kamatham", "designation": "Associate Dean, School of Engineering"},
+    {"code": "MRUE2212T162",
+        "name": "Dr. Harikrishna Kamatham",
+        "designation": "Associate Dean, School of Engineering"
+    },
     {"code": "MRUE2009T005", "name": "Dr.Meeravali shaik", "designation": "HOD"},
     {"code": "MRUE2101T009", "name": "Dr.G.Nanda Kishore Kumar", "designation": "Professor & Controller of Examinations"},
     {"code": "MRUE2209T131", "name": "Dr. M.Narayanan", "designation": "Professor"},
